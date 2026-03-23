@@ -285,8 +285,8 @@ CREATE TABLE security_audits (
 
 ```bash
 # Clone repository
-git clone https://github.com/vikrant-project/info.git
-cd info
+git clone https://github.com/vikrant-project/SecureStack.git
+cd SecureStack
 
 # Install dependencies
 pip3 install -r requirements.txt
@@ -536,7 +536,7 @@ We welcome contributions! Here's how:
 
 ```bash
 # Clone your fork
-git clone https://github.com/YOUR_USERNAME/info.git
+git clone https://github.com/vikrant-project/SecureStack.git
 
 # Create virtual environment
 python3 -m venv venv
@@ -571,10 +571,9 @@ Built with:
 
 ## 📞 Support & Contact
 
-- 🐛 **Report Issues**: [GitHub Issues](https://github.com/vikrant-project/info/issues)
-- 💬 **Discussions**: [GitHub Discussions](https://github.com/vikrant-project/info/discussions)
-- 📧 **Email**: security@soul-py.io
-- 🐦 **Twitter**: @soulpy_security
+- 🐛 **Report Issues**: [GitHub Issues](https://github.com/vikrant-project/SecureStack/issues)
+- 💬 **Discussions**: [GitHub Discussions](https://github.com/vikrant-project/SecureStack/discussions)
+- 🐦 **Telegram**: @soulcracks_owner
 
 ---
 
